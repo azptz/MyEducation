@@ -6,5 +6,5 @@
 
 * ToLower() - возращает значение в нижнем регистре, т.е при вводе, при любом регистре слово будет опознано,
  пример - string username.ToLower() == "миша"
-* Console.SetCursorPosition(x,y); - ставит точки на экране
+* Console.SetCursorPosition(x,y); - ставит точки на экране в заданных координатах
 * Console.Clear(); - очищает экран
