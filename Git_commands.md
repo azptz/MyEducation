@@ -57,7 +57,7 @@ __4.Работа с ветками__
 
 
 * git push origin --delete <branchName>
-* git push --set-upstream [url] [name_branch] 
 * git remote add [name] [url] - подключить удаленный репозиторий и задать ему имяпше дщ
 * git remote show origin - посмотреть [url] на удал. репозиторий
+
 
